@@ -6,6 +6,6 @@ prueba 2 (cambio en repositorio remoto original)
 
 prueba 3 (cambio en repositorio remoto original)
 
-prueba 4 (cambio en repositorio remoto original)
+prueba 4 (cambio en repositorio remote original)
 
 prueba 5 (cambio en repositorio remoto original)
