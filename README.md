@@ -10,4 +10,4 @@ prueba 4 (cambio en repositorio remoto original)
 
 prueba 5 (cambio en repositorio remoto original)
 
-prueba 5 (cambio en repositorio remoto original)
+prueba 6 (cambio en repositorio remoto original)
